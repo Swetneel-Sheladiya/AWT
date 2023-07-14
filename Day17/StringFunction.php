@@ -5,7 +5,7 @@
     echo $result;
     echo '<br/>'.'<br/>'.'<br/>';
 
-    $str1 = "meet,utkarsh,spandan";
+    $str1 = "swetneel,neel,devanshi";
     $result1 = explode(',',$str1);
     echo '<pre/>';
     print_r($result1);
