@@ -1,6 +1,6 @@
 <?php
 echo "The original array is :<br>";
-$a = array("meet","utkarsh","divy","spandan","dhyey","dhairya");
+$a = array("swetneel","neel","devanshi","rajvi","krina","krutik");
 echo"<pre>";
 print_r($a);
 echo "After sorting Arary..<br>";
